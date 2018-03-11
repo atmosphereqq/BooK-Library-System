@@ -170,7 +170,7 @@
             // 新用户注册
             // 
             this.新用户注册.Name = "新用户注册";
-            this.新用户注册.Size = new System.Drawing.Size(148, 22);
+            this.新用户注册.Size = new System.Drawing.Size(152, 22);
             this.新用户注册.Text = "新用户注册";
             this.新用户注册.Click += new System.EventHandler(this.新用户注册_Click);
             // 
@@ -180,7 +180,7 @@
             this.修改信息,
             this.修改密码});
             this.用户信息修改ToolStripMenuItem.Name = "用户信息修改ToolStripMenuItem";
-            this.用户信息修改ToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.用户信息修改ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.用户信息修改ToolStripMenuItem.Text = "用户信息修改";
             // 
             // 修改信息
@@ -200,13 +200,13 @@
             // 锁定用户
             // 
             this.锁定用户.Name = "锁定用户";
-            this.锁定用户.Size = new System.Drawing.Size(148, 22);
+            this.锁定用户.Size = new System.Drawing.Size(152, 22);
             this.锁定用户.Text = "锁定用户处理";
             // 
             // 注销用户
             // 
             this.注销用户.Name = "注销用户";
-            this.注销用户.Size = new System.Drawing.Size(148, 22);
+            this.注销用户.Size = new System.Drawing.Size(152, 22);
             this.注销用户.Text = "注销用户";
             this.注销用户.Click += new System.EventHandler(this.注销用户_Click);
             // 
@@ -224,28 +224,28 @@
             // 新书入库
             // 
             this.新书入库.Name = "新书入库";
-            this.新书入库.Size = new System.Drawing.Size(152, 22);
+            this.新书入库.Size = new System.Drawing.Size(124, 22);
             this.新书入库.Text = "新书入库";
             this.新书入库.Click += new System.EventHandler(this.新书入库_Click);
             // 
             // 借书
             // 
             this.借书.Name = "借书";
-            this.借书.Size = new System.Drawing.Size(152, 22);
+            this.借书.Size = new System.Drawing.Size(124, 22);
             this.借书.Text = "借书办理";
             this.借书.Click += new System.EventHandler(this.借书_Click);
             // 
             // 还书
             // 
             this.还书.Name = "还书";
-            this.还书.Size = new System.Drawing.Size(152, 22);
+            this.还书.Size = new System.Drawing.Size(124, 22);
             this.还书.Text = "还书办理";
             this.还书.Click += new System.EventHandler(this.还书_Click);
             // 
             // 书籍注销
             // 
             this.书籍注销.Name = "书籍注销";
-            this.书籍注销.Size = new System.Drawing.Size(152, 22);
+            this.书籍注销.Size = new System.Drawing.Size(124, 22);
             this.书籍注销.Text = "书籍注销";
             this.书籍注销.Click += new System.EventHandler(this.书籍注销_Click);
             // 
@@ -262,21 +262,21 @@
             // 图书查询
             // 
             this.图书查询.Name = "图书查询";
-            this.图书查询.Size = new System.Drawing.Size(152, 22);
+            this.图书查询.Size = new System.Drawing.Size(148, 22);
             this.图书查询.Text = "图书查询";
             this.图书查询.Click += new System.EventHandler(this.图书查询_Click);
             // 
             // 借书单查询
             // 
             this.借书单查询.Name = "借书单查询";
-            this.借书单查询.Size = new System.Drawing.Size(152, 22);
+            this.借书单查询.Size = new System.Drawing.Size(148, 22);
             this.借书单查询.Text = "借书单查询";
             this.借书单查询.Click += new System.EventHandler(this.借书单查询_Click);
             // 
             // 用户信息查询
             // 
             this.用户信息查询.Name = "用户信息查询";
-            this.用户信息查询.Size = new System.Drawing.Size(152, 22);
+            this.用户信息查询.Size = new System.Drawing.Size(148, 22);
             this.用户信息查询.Text = "用户信息查询";
             this.用户信息查询.Click += new System.EventHandler(this.用户信息查询_Click);
             // 
@@ -291,7 +291,7 @@
             // 关于软件
             // 
             this.关于软件.Name = "关于软件";
-            this.关于软件.Size = new System.Drawing.Size(124, 22);
+            this.关于软件.Size = new System.Drawing.Size(152, 22);
             this.关于软件.Text = "关于软件";
             this.关于软件.Click += new System.EventHandler(this.关于软件ToolStripMenuItem_Click);
             // 
@@ -521,6 +521,5 @@
         private System.Windows.Forms.ToolStripStatusLabel adadssadasdsadas;
         private System.Windows.Forms.ToolStripStatusLabel xxx;
         private System.Windows.Forms.Timer timer1;
-
     }
 }
